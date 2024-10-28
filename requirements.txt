@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+Pillow
+matplotlib
+requests
+geopy
+openai
+dotenv
+roboflow
+nicegui
+aiofiles
+Mangum
